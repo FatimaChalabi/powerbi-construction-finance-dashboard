@@ -1,0 +1,96 @@
+ProjectID,ProjectName,Category,City,Client,ContractorID,ContractorName,StartDate,PlannedEndDate,Status,CompletionPct,PlannedBudget_AZN,ProjectManager,Priority
+PRJ001,Downtown Office Tower,Kommersiya,Bakı,Nar Mobile,CON007,Atlas Construction,2022-02-24,2025-07-08,In Progress,95,5579000.0,Nərmin İsmayılova,Low
+PRJ002,Şimal-Cənub Yolu,İnfrastruktur,Sumqayıt,Bakı Metro,CON002,Elit Tikinti QSC,2022-11-23,2025-08-09,In Progress,95,20311000.0,Lalə Quliyeva,High
+PRJ003,Metro Xətti Uzadılması,İnfrastruktur,Bakı,Baku Steel,CON002,Elit Tikinti QSC,2022-03-30,2025-02-12,Cancelled,34,29130000.0,Namiq Kərimov,Low
+PRJ004,Uşaq Bağçası,Sosial,Bakı,Azər Gold,CON004,ProConstruct MMC,2022-05-23,2023-01-18,Delayed,35,6782000.0,Lalə Quliyeva,Medium
+PRJ005,Anbar Kompleksi,Sənaye,Bakı,Bakı Metro,CON011,TechConstruct MMC,2023-12-29,2025-07-21,On Hold,63,7032000.0,Vüsal Tahirov,Low
+PRJ006,Crystal Plaza,Kommersiya,Bakı,Nar Mobile,CON001,Bina İnşaat MMC,2023-07-07,2027-04-17,In Progress,52,14387000.0,Tural Əliyev,Medium
+PRJ007,Logistika Mərkəzi,Sənaye,Bakı,Silk Road Hotels,CON008,Bakı İnşaat Holdinq,2025-03-07,2027-04-26,In Progress,24,2914000.0,Zəfər Hacıyev,High
+PRJ008,Commerce Gate,Kommersiya,Sumqayıt,BBA,CON009,Caspian Build,2024-05-27,2027-12-08,In Progress,25,9189000.0,Kamran Nəsirov,High
+PRJ009,Green Park Residence,Yaşayış Kompleksi,Bakı,AzərSu,CON009,Caspian Build,2024-05-14,2027-12-25,In Progress,35,3143000.0,Əli Həsənov,Low
+PRJ010,Diamond Towers,Yaşayış Kompleksi,Sumqayıt,AzərSu,CON001,Bina İnşaat MMC,2023-11-28,2024-12-22,Completed,100,7283000.0,Rəna Allahverdiyeva,High
+PRJ011,Məktəb Binası,Sosial,Gəncə,Baku Steel,CON003,AzərBuild Group,2023-09-04,2027-06-15,In Progress,49,5323000.0,Fidan Süleymanova,High
+PRJ012,Kitabxana Binası,Sosial,Bakı,AZƏRENERJI,CON004,ProConstruct MMC,2022-08-18,2025-01-04,Delayed,49,8848000.0,Bəhruz Nağıyev,Low
+PRJ013,Caspian View Tower,Yaşayış Kompleksi,Sumqayıt,PASHA Holding,CON009,Caspian Build,2022-05-22,2025-09-03,In Progress,95,15785000.0,Zəfər Hacıyev,Low
+PRJ014,İdman Sarayı,Sosial,Abşeron,Azər-Türk Bank,CON006,Mega Tikinti,2025-01-09,2026-07-03,In Progress,42,7273000.0,Fidan Süleymanova,Medium
+PRJ015,Elite Towers,Yaşayış Kompleksi,Bakı,SOCAR,CON004,ProConstruct MMC,2023-11-24,2024-06-21,Completed,100,12590000.0,Elçin Quliyev,Low
+PRJ016,Bakı Heights,Yaşayış Kompleksi,Bakı,BBA,CON011,TechConstruct MMC,2022-03-06,2024-05-24,Completed,100,3275000.0,Rəşad Süleymanov,Low
+PRJ017,Prime Office Complex,Kommersiya,Gəncə,Azər Gold,CON004,ProConstruct MMC,2025-03-15,2028-08-26,On Hold,46,10508000.0,Murad Babayev,Low
+PRJ018,Texnologiya Parkı,Sənaye,Bakı,AtaBank,CON001,Bina İnşaat MMC,2024-08-14,2025-05-11,Cancelled,16,7060000.0,Günel Əliyeva,High
+PRJ019,Port Trade Mall,Kommersiya,Bakı,Azər-Türk Bank,CON002,Elit Tikinti QSC,2024-07-07,2025-08-31,In Progress,82,9594000.0,Murad Babayev,High
+PRJ020,Xəstəxana Kompleksi,Sosial,Abşeron,AZƏRENERJI,CON007,Atlas Construction,2023-04-30,2024-08-22,Completed,100,4361000.0,Vüsal Tahirov,Medium
+PRJ021,Royal Gardens,Yaşayış Kompleksi,Bakı,BBA,CON009,Caspian Build,2024-07-20,2026-07-10,Delayed,80,9614000.0,Cavid Əhmədov,High
+PRJ022,Abşeron Magistral,İnfrastruktur,Abşeron,BBA,CON010,EuroBuild AZ,2025-04-01,2028-07-14,In Progress,5,7743000.0,Rəna Allahverdiyeva,Low
+PRJ023,Bakı Business Center,Kommersiya,Gəncə,AtaBank,CON004,ProConstruct MMC,2022-06-14,2023-11-06,Completed,100,3233000.0,Orxan Rzayev,Low
+PRJ024,Silk Road Business Hub,Kommersiya,Bakı,Bakı Limanı,CON004,ProConstruct MMC,2024-05-08,2028-04-17,In Progress,27,12506000.0,Bəhruz Nağıyev,Medium
+PRJ025,Emal Müəssisəsi,Sənaye,Bakı,Azər-Türk Bank,CON001,Bina İnşaat MMC,2023-09-07,2026-07-23,On Hold,24,3846000.0,Murad Babayev,High
+PRJ026,Mədəniyyət Mərkəzi,Sosial,Bakı,PASHA Holding,CON005,Grand İnşaat,2022-09-29,2025-01-16,Delayed,53,8868000.0,Nərmin İsmayılova,Low
+PRJ027,Hava Limanı Terminalı,İnfrastruktur,Abşeron,Azər Gold,CON011,TechConstruct MMC,2024-12-19,2025-06-17,Completed,100,35054000.0,Fərid İsmayılov,Medium
+PRJ028,Sunrise Residence,Yaşayış Kompleksi,Sumqayıt,Bakcell,CON006,Mega Tikinti,2022-11-15,2024-10-05,Completed,100,7072000.0,Zəfər Hacıyev,Low
+PRJ029,Su Təmizləmə,Sənaye,Gəncə,Bakı Limanı,CON001,Bina İnşaat MMC,2022-04-15,2023-03-11,Delayed,32,6709000.0,Fərid İsmayılov,Low
+PRJ030,Sumqayıt Körpüsü,İnfrastruktur,Sumqayıt,AZƏRENERJI,CON009,Caspian Build,2025-02-03,2027-10-21,In Progress,8,30241000.0,Sevinc Hüseynova,Low
+PRJ031,Universitet Kampusu,Sosial,Bakı,Bakcell,CON006,Mega Tikinti,2022-03-27,2024-04-15,Cancelled,12,3964000.0,Bəhruz Nağıyev,Low
+PRJ032,Xəzər Residence,Yaşayış Kompleksi,Sumqayıt,PASHA Holding,CON003,AzərBuild Group,2024-04-12,2027-12-23,Delayed,45,15491000.0,Şəbnəm Babayeva,High
+PRJ033,Grand Mall,Kommersiya,Gəncə,Azər Gold,CON003,AzərBuild Group,2024-04-23,2028-04-02,On Hold,37,17553000.0,Lalə Quliyeva,High
+PRJ034,Enerji Stansiyası,Sənaye,Bakı,SOCAR,CON004,ProConstruct MMC,2024-07-31,2026-11-18,On Hold,34,3747000.0,Şamil Allahverdiyev,Medium
+PRJ035,Liman Genişlənməsi,İnfrastruktur,Gəncə,SOCAR,CON006,Mega Tikinti,2023-07-26,2025-11-12,In Progress,91,33867000.0,Orxan Rzayev,Medium
+PRJ036,Boulevard Business Center,Kommersiya,Bakı,Azerbaijan Airlines,CON010,EuroBuild AZ,2025-05-06,2028-01-21,On Hold,47,8222000.0,Orxan Rzayev,Medium
+PRJ037,Olimpiya Mərkəzi,Sosial,Bakı,Bakcell,CON012,AlphaInşaat,2024-06-12,2024-12-09,Delayed,73,5439000.0,Sevinc Hüseynova,Medium
+PRJ038,City View Apartments,Yaşayış Kompleksi,Bakı,Azərişıq,CON007,Atlas Construction,2022-09-13,2024-10-02,Delayed,50,11128000.0,Fərid İsmayılov,High
+PRJ039,Sənaye Zonası,Sənaye,Bakı,Azərişıq,CON005,Grand İnşaat,2022-12-23,2026-09-03,In Progress,58,6122000.0,Rəşad Süleymanov,Medium
+PRJ040,Sosial Yaşayış Binası,Sosial,Bakı,PASHA Holding,CON012,AlphaInşaat,2024-06-24,2026-01-15,On Hold,70,5356000.0,Kamran Nəsirov,Medium
+PRJ041,Poliklinika,Sosial,Bakı,AZƏRENERJI,CON001,Bina İnşaat MMC,2023-04-27,2025-05-16,Completed,100,2634000.0,Bəhruz Nağıyev,Medium
+PRJ042,Məktəb Binası 42,Sosial,Bakı,Silk Road Hotels,CON004,ProConstruct MMC,2025-03-24,2026-09-15,In Progress,20,7324000.0,Əli Həsənov,High
+PRJ043,Kimya Zavodu,Sənaye,Bakı,Silk Road Hotels,CON008,Bakı İnşaat Holdinq,2024-11-26,2027-10-12,In Progress,13,1452000.0,Leyla Əhmədova,Low
+PRJ044,Poliklinika 44,Sosial,Bakı,Azər-Türk Bank,CON009,Caspian Build,2024-06-25,2028-03-06,Delayed,57,8243000.0,Vüsal Tahirov,Low
+PRJ045,Enerji Ötürücü Xətt,Sənaye,Bakı,Nar Mobile,CON011,TechConstruct MMC,2023-05-22,2027-03-02,On Hold,51,3496000.0,Ramil Musayev,Medium
+PRJ046,Nəsimi Plaza,Yaşayış Kompleksi,Bakı,AtaBank,CON004,ProConstruct MMC,2023-11-19,2026-01-07,In Progress,69,18074000.0,Cavid Əhmədov,Low
+PRJ047,Tech Park Baku,Kommersiya,Bakı,AZAL,CON007,Atlas Construction,2023-11-09,2027-02-21,In Progress,53,10387000.0,Rauf Məmmədov,Low
+PRJ048,İstehsal Fabriki,Sənaye,Bakı,Baku Steel,CON007,Atlas Construction,2023-12-22,2026-01-10,Delayed,83,7781000.0,Xədicə Qədirova,Low
+PRJ049,Boulevard Business Center 49,Kommersiya,Bakı,PASHA Holding,CON012,AlphaInşaat,2024-06-11,2027-06-26,In Progress,36,2522000.0,Leyla Əhmədova,High
+PRJ050,Poliklinika 50,Sosial,Bakı,Silk Road Hotels,CON007,Atlas Construction,2024-03-17,2027-09-28,In Progress,46,5862000.0,Leyla Əhmədova,High
+PRJ051,Bakı Heights 51,Yaşayış Kompleksi,Bakı,Kapital Bank,CON005,Grand İnşaat,2023-03-10,2026-01-23,On Hold,44,7883000.0,Zəfər Hacıyev,High
+PRJ052,Kimya Zavodu 52,Sənaye,Sumqayıt,AZƏRENERJI,CON011,TechConstruct MMC,2022-04-17,2024-08-04,Completed,100,3018000.0,Rauf Məmmədov,High
+PRJ053,Bakı Business Center 53,Kommersiya,Bakı,Azər-Türk Bank,CON004,ProConstruct MMC,2023-05-04,2024-06-27,Completed,100,10524000.0,Zəfər Hacıyev,Medium
+PRJ054,Grand Mall 54,Kommersiya,Bakı,Azərişıq,CON001,Bina İnşaat MMC,2022-08-23,2023-12-16,Completed,100,19365000.0,Lalə Quliyeva,Medium
+PRJ055,Port Trade Mall 55,Kommersiya,Bakı,Veysəloğlu,CON011,TechConstruct MMC,2023-05-13,2024-05-07,Completed,100,14549000.0,Orxan Rzayev,Low
+PRJ056,Nəsimi Plaza 56,Yaşayış Kompleksi,Bakı,BBA,CON007,Atlas Construction,2024-01-29,2024-11-24,Completed,100,11107000.0,Murad Babayev,Medium
+PRJ057,Çevrə Yolu,İnfrastruktur,Bakı,Baku Steel,CON010,EuroBuild AZ,2024-06-10,2025-11-02,Delayed,47,38021000.0,Aynur Tahirova,Medium
+PRJ058,Sənaye Zonası 58,Sənaye,Bakı,AZAL,CON008,Bakı İnşaat Holdinq,2023-05-18,2024-04-12,Completed,100,3510000.0,Lalə Quliyeva,Medium
+PRJ059,Royal Gardens 59,Yaşayış Kompleksi,Sumqayıt,Veysəloğlu,CON005,Grand İnşaat,2023-01-08,2026-01-22,On Hold,41,5818000.0,Ramil Musayev,Low
+PRJ060,City View Apartments 60,Yaşayış Kompleksi,Gəncə,BBA,CON004,ProConstruct MMC,2022-06-25,2024-03-16,Completed,100,14961000.0,Gülnar Cəfərova,Medium
+PRJ061,Caspian View Tower 61,Yaşayış Kompleksi,Bakı,Azerbaijan Airlines,CON009,Caspian Build,2024-04-08,2025-12-29,In Progress,76,7512000.0,Nigar Məmmədova,Medium
+PRJ062,Uşaq Bağçası 62,Sosial,Bakı,Azər Gold,CON006,Mega Tikinti,2024-07-18,2026-06-08,In Progress,46,3413000.0,Xədicə Qədirova,Low
+PRJ063,Downtown Office Tower 63,Kommersiya,Bakı,Azərişıq,CON010,EuroBuild AZ,2024-09-18,2026-08-09,Delayed,63,15043000.0,Murad Babayev,High
+PRJ064,Dəmiryol Körpüsü,İnfrastruktur,Bakı,AZƏRENERJI,CON001,Bina İnşaat MMC,2023-09-12,2024-03-10,Completed,100,36861000.0,Namiq Kərimov,Low
+PRJ065,Boulevard Business Center 65,Kommersiya,Bakı,AZƏRENERJI,CON003,AzərBuild Group,2022-01-26,2025-07-09,In Progress,95,7118000.0,Zəfər Hacıyev,Medium
+PRJ066,Caspian View Tower 66,Yaşayış Kompleksi,Bakı,Azərişıq,CON010,EuroBuild AZ,2022-06-01,2025-11-12,In Progress,83,13330000.0,Kamran Nəsirov,High
+PRJ067,City View Apartments 67,Yaşayış Kompleksi,Sumqayıt,Azər-Türk Bank,CON007,Atlas Construction,2025-05-26,2029-01-05,In Progress,8,16233000.0,Nərmin İsmayılova,Medium
+PRJ068,Universitet Kampusu 68,Sosial,Bakı,Bakcell,CON004,ProConstruct MMC,2025-06-25,2026-03-22,On Hold,68,6291000.0,Zəfər Hacıyev,Low
+PRJ069,Green Park Residence 69,Yaşayış Kompleksi,Bakı,Azərişıq,CON008,Bakı İnşaat Holdinq,2025-02-04,2025-12-01,In Progress,58,4818000.0,Tural Əliyev,High
+PRJ070,Tunnel Layihəsi,İnfrastruktur,Bakı,AZAL,CON011,TechConstruct MMC,2024-07-18,2025-05-14,Cancelled,60,35932000.0,Şamil Allahverdiyev,Medium
+PRJ071,City View Apartments 71,Yaşayış Kompleksi,Bakı,Azərişıq,CON003,AzərBuild Group,2022-11-02,2024-09-22,Completed,100,16879000.0,Namiq Kərimov,Medium
+PRJ072,Royal Gardens 72,Yaşayış Kompleksi,Bakı,AZƏRENERJI,CON010,EuroBuild AZ,2024-04-04,2026-02-23,In Progress,57,11008000.0,Türkan Rzayeva,Low
+PRJ073,Gəncə Şəhərlərarası Yol,İnfrastruktur,Bakı,AZƏRENERJI,CON010,EuroBuild AZ,2023-04-14,2026-09-25,In Progress,62,31421000.0,Elnur Cəfərov,Medium
+PRJ074,Kitabxana Binası 74,Sosial,Gəncə,Azerconnect,CON008,Bakı İnşaat Holdinq,2023-01-07,2026-07-20,On Hold,25,4641000.0,Şəbnəm Babayeva,Medium
+PRJ075,Dəmiryol Körpüsü 75,İnfrastruktur,Gəncə,AZƏRENERJI,CON009,Caspian Build,2023-11-07,2026-06-24,In Progress,64,36215000.0,Leyla Əhmədova,High
+PRJ076,Abşeron Magistral 76,İnfrastruktur,Bakı,Kapital Bank,CON008,Bakı İnşaat Holdinq,2024-04-07,2027-05-22,In Progress,46,42122000.0,Nicat Hüseynov,High
+PRJ077,Uşaq Bağçası 77,Sosial,Bakı,Silk Road Hotels,CON009,Caspian Build,2024-10-17,2028-07-28,In Progress,16,4699000.0,Namiq Kərimov,Medium
+PRJ078,Emal Müəssisəsi 78,Sənaye,Bakı,Kapital Bank,CON009,Caspian Build,2025-05-31,2027-02-20,In Progress,5,7388000.0,Kamran Nəsirov,High
+PRJ079,Royal Gardens 79,Yaşayış Kompleksi,Gəncə,BBA,CON007,Atlas Construction,2022-11-12,2025-11-26,In Progress,84,18788000.0,Aynur Tahirova,High
+PRJ080,Enerji Ötürücü Xətt 80,Sənaye,Bakı,AzərSu,CON002,Elit Tikinti QSC,2023-01-26,2026-09-07,Delayed,85,5574000.0,Şəbnəm Babayeva,Medium
+PRJ081,İdman Sarayı 81,Sosial,Sumqayıt,Azər-Türk Bank,CON003,AzərBuild Group,2023-08-03,2025-08-22,In Progress,95,8456000.0,Xədicə Qədirova,Medium
+PRJ082,Liman Genişlənməsi 82,İnfrastruktur,Bakı,Nar Mobile,CON012,AlphaInşaat,2025-01-17,2027-07-06,In Progress,14,25491000.0,Lalə Quliyeva,High
+PRJ083,Kimya Zavodu 83,Sənaye,Bakı,BBA,CON003,AzərBuild Group,2024-08-26,2027-02-12,On Hold,61,4475000.0,Tural Əliyev,High
+PRJ084,Sosial Yaşayış Binası 84,Sosial,Bakı,Silk Road Hotels,CON012,AlphaInşaat,2022-07-25,2025-05-10,Cancelled,10,1447000.0,Şəbnəm Babayeva,Low
+PRJ085,Port Trade Mall 85,Kommersiya,Bakı,Baku Steel,CON006,Mega Tikinti,2023-06-27,2025-09-14,In Progress,82,13219000.0,Lalə Quliyeva,Medium
+PRJ086,Enerji Ötürücü Xətt 86,Sənaye,Bakı,Bakı Metro,CON012,AlphaInşaat,2022-05-21,2024-02-10,Cancelled,24,6680000.0,Türkan Rzayeva,High
+PRJ087,Royal Gardens 87,Yaşayış Kompleksi,Bakı,Azerconnect,CON006,Mega Tikinti,2023-09-06,2024-04-03,Delayed,48,2828000.0,Türkan Rzayeva,High
+PRJ088,Prime Office Complex 88,Kommersiya,Bakı,Nar Mobile,CON010,EuroBuild AZ,2023-01-04,2024-04-28,Delayed,54,5151000.0,Gülnar Cəfərova,Low
+PRJ089,Downtown Office Tower 89,Kommersiya,Bakı,Baku Steel,CON005,Grand İnşaat,2023-06-05,2026-04-20,In Progress,76,6596000.0,Vüsal Tahirov,High
+PRJ090,Anbar Kompleksi 90,Sənaye,Abşeron,Bakcell,CON005,Grand İnşaat,2023-09-05,2027-06-16,On Hold,49,9658000.0,Lalə Quliyeva,Medium
+PRJ091,Elite Towers 91,Yaşayış Kompleksi,Bakı,AtaBank,CON011,TechConstruct MMC,2024-01-06,2027-06-19,On Hold,21,7326000.0,Ramil Musayev,High
+PRJ092,Xəstəxana Kompleksi 92,Sosial,Gəncə,Bakcell,CON004,ProConstruct MMC,2024-10-14,2026-10-04,In Progress,37,7870000.0,Zəfər Hacıyev,Low
+PRJ093,Port Trade Mall 93,Kommersiya,Gəncə,Silk Road Hotels,CON006,Mega Tikinti,2022-03-22,2024-04-10,Completed,100,16195000.0,Kamran Nəsirov,Medium
+PRJ094,Metro Xətti Uzadılması 94,İnfrastruktur,Bakı,PASHA Holding,CON005,Grand İnşaat,2022-09-28,2026-01-10,In Progress,89,44441000.0,Zəfər Hacıyev,Medium
+PRJ095,Liman Genişlənməsi 95,İnfrastruktur,Sumqayıt,AtaBank,CON012,AlphaInşaat,2024-08-17,2025-06-13,Cancelled,53,11334000.0,Sevinc Hüseynova,High
