@@ -1,0 +1,13 @@
+ContractorID,ContractorName,Specialization,Rating,City
+CON001,Bina İnşaat MMC,Yaşayış,4.5,Bakı
+CON002,Elit Tikinti QSC,Kommersiya,4.2,Bakı
+CON003,AzərBuild Group,İnfrastruktur,4.7,Sumqayıt
+CON004,ProConstruct MMC,Sənaye,4.0,Bakı
+CON005,Grand İnşaat,Yaşayış,4.3,Bakı
+CON006,Mega Tikinti,Kommersiya,3.9,Bakı
+CON007,Atlas Construction,İnfrastruktur,4.6,Bakı
+CON008,Bakı İnşaat Holdinq,Sosial,4.4,Bakı
+CON009,Caspian Build,Sənaye,4.1,Gəncə
+CON010,EuroBuild AZ,Yaşayış,4.8,Bakı
+CON011,TechConstruct MMC,Kommersiya,3.8,Bakı
+CON012,AlphaInşaat,İnfrastruktur,4.5,Bakı
