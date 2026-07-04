@@ -34,4 +34,48 @@ This project covers **95 construction projects**, **12 contractors**, and **3+ y
 
 ---
 
+## 🗂️ Data Model (Star Schema)
+
+```
+fact_financials (11,432 rows)
+    ├── dim_projects (95 rows)
+    │       └── dim_contractors (12 rows)
+```
+
+### Key Fields
+
+| Table | Key Columns |
+|-------|-------------|
+| fact_financials | PlannedRevenue, ActualRevenue, PlannedCost, ActualCost, GrossProfit, GrossMarginPct |
+| dim_projects | ProjectName, Category, City, Status, CompletionPct, PlannedBudget_AZN |
+| dim_contractors | ContractorName, Specialization, Rating |
+
+---
+
+## ⚡ Advanced Features
+
+- **What-if Parameter** — Cost Reduction % simulator (0–30%)
+- **Navigation Bar** — Page Navigator for seamless UX
+- **Gauge Chart** — Gross Margin % vs 20% target
+- **Waterfall Chart** — Profit breakdown by cost category
+- **Matrix** — Revenue/Profit by Category × Year
+- **Custom Dark Theme** — Navy + Cyan color scheme
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI Desktop** — Dashboard & visualization
+- **DAX** — Advanced calculations & What-if simulation
+- **Python** — Synthetic data generation (Pandas, NumPy)
+- **Star Schema** — Data modeling
+
+---
+
+## 👩‍💻 Author
+
+**Fatima Chalabi** — Data Analyst / BI Developer  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatimachalabi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/FatimaChalabi)
+
 ---
