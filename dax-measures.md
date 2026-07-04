@@ -80,3 +80,26 @@ DIVIDE([Simulated Profit], [Total Revenue])
 ```
 
 ---
+
+## 5. Summary Table
+
+| Measure | Category | Description |
+|---------|----------|-------------|
+| Total Revenue | Core | Sum of actual revenue |
+| Total Cost | Core | Sum of actual cost |
+| Total Profit | Core | Sum of gross profit |
+| Gross Margin % | Core | Profit / Revenue |
+| Total Projects | Core | Count of projects |
+| Planned Revenue | Variance | Sum of planned revenue |
+| Planned Cost | Variance | Sum of planned cost |
+| Revenue Variance % | Variance | Actual vs planned revenue |
+| Cost Variance % | Variance | Actual vs planned cost |
+| Total Cost Overrun | Variance | Actual - Planned cost |
+| Overrun Projects | Variance | Projects exceeding planned cost |
+| Avg Gross Margin % | Profitability | Average margin per project |
+| Simulated Profit | Simulation | What-if profit with cost reduction |
+| Sim Margin % | Simulation | What-if margin % |
+
+---
+
+*Author: Fatima Chalabi | GitHub: FatimaChalabi*
