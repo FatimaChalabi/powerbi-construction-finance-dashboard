@@ -1,0 +1,109 @@
+{
+  "name": "Construction Dark",
+  "dataColors": [
+    "#C9A84C",
+    "#52B788",
+    "#2D6A4F",
+    "#E8C97A",
+    "#74C69D",
+    "#F4A261",
+    "#B7E4C7",
+    "#1A3C2E"
+  ],
+  "background": "#0F2318",
+  "foreground": "#FFFFFF",
+  "foregroundNeutralSecondary": "#C9A84C",
+  "tableAccent": "#C9A84C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "labelColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "axisLabelColor": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{"fontSize": 28, "fontColor": {"solid": {"color": "#C9A84C"}}, "bold": true}],
+        "categoryLabel": [{"fontSize": 11, "fontColor": {"solid": {"color": "#FFFFFF"}}}],
+        "background": [{"color": {"solid": {"color": "#0F2318"}}, "transparency": 0}],
+        "border": [{"color": {"solid": {"color": "#C9A84C"}}, "show": true}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "legend": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "legend": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "legend": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    },
+    "treemap": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "gridColor": [{"color": {"solid": {"color": "#2D6A4F"}}}],
+        "headerFontColor": [{"color": {"solid": {"color": "#C9A84C"}}}],
+        "headerBackground": [{"color": {"solid": {"color": "#0F2318"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C2E"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#C9A84C"}}}]
+      }
+    }
+  }
+}
