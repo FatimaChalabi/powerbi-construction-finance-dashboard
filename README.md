@@ -4,6 +4,25 @@
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+## 📸 Screenshots
+
+### 1. Executive Overview
+![Executive Overview](./SCREENSHOTS/page_01_Executive_Overview.jpg)
+
+### 2. Revenue and Profit
+![Revenue and Profit](./SCREENSHOTS/page_02_Revenue_and_Profit.jpg)
+
+### 3. Cost Management
+![Cost Management](./SCREENSHOTS/page_03_Cost_Management.jpg)
+
+### 4. Project Details
+![Project Details](./SCREENSHOTS/page_04_Project_Details.jpg)
+
+### 5. Simulation
+![Simulation](./SCREENSHOTS/page_05_Simulation.jpg)
+
+---
+
 ## 📌 Project Overview
 
 An advanced **Construction Financial Analytics Dashboard** built with Power BI, designed to monitor revenue, costs, profitability, and simulate financial scenarios across a multi-project construction portfolio.
